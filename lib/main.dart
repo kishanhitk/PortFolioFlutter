@@ -25,7 +25,7 @@ class ComingSoonPage extends StatelessWidget {
         width: MediaQuery.of(context).size.width,
         child: Center(
           child: Text(
-            "I am \nComing",
+            "I am\nComing",
             textAlign: TextAlign.center,
             style: GoogleFonts.lato(color: Colors.white, fontSize: 80),
           ),
