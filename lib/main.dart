@@ -34,7 +34,7 @@ class ComingSoonPage extends StatelessWidget {
               flex: 5,
               child: Center(
                 child: Text(
-                  "I am\nKishan",
+                  "Hi, I am\nKishan",
                   textAlign: TextAlign.center,
                   style: GoogleFonts.londrinaOutline(
                       color: Color(0xfffe346e) ??
